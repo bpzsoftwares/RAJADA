@@ -1,0 +1,9 @@
+{
+  "appId": "br.com.rajada.jogo",
+  "appName": "RAJADA",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "http",
+    "cleartext": true
+  }
+}

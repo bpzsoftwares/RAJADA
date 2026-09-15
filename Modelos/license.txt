@@ -1,0 +1,11 @@
+Model Information:
+* title:	Loot Box
+* source:	https://sketchfab.com/3d-models/loot-box-4a2a722e8c51495d885edf424abb5872
+* author:	Lugu (https://sketchfab.com/Lugu_GMD)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Loot Box" (https://sketchfab.com/3d-models/loot-box-4a2a722e8c51495d885edf424abb5872) by Lugu (https://sketchfab.com/Lugu_GMD) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
